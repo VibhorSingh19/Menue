@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import MyNavbar from './components/my-navbar/mynavbar.component';
 import MyCarousal from './components/my-carousal/my-carousal.component';
+import MyPhotos from './components/my-carousal/photos.component';
 import TitleMessage from './components/title-message/title-message.component';
 import About from './pages/about/about.component';
 import Fade from "react-reveal/Fade";
@@ -53,7 +54,7 @@ const App = () => {
           <Container className="container-box rounded">
             <Slide bottom duration={500}>
             <hr />
-            <Projects/>
+            <MyPhotos/>
           </Slide>
           </Container>
        

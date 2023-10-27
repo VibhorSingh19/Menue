@@ -28,20 +28,7 @@ const About = () => {
                 </Row>
                 <Row>
                 <Col className="d-flex justify-content-center flex-wrap">
-                 <div>
-                    <a href="#contact">
-                      <Button className="m-4" variant="outline-primary">
-                        Let's talk
-                      </Button>
-                    </a>
-                  </div>
-                  <div>
-                    <a href="https://www.https://www.instagram.com/_vibhor_singh_/" target="_blank" rel="noopener noreferrer">
-                      <Button className="m-4ß" variant="outline-info">
-                        Instagram
-                      </Button>
-                    </a>
-                  </div>
+                 
                 </Col>
                 </Row>
             </Col>
