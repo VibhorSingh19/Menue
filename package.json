@@ -1,5 +1,5 @@
 {
-  "name": "myportfolio",
+  "name": "Menue",
   "homepage": "http://vibhorsingh19.github.io/Menue",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,7 @@
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.1",
     "react-paralax": "^1.0.0",
-    "react-parallax": "^3.0.3",
-    "react-particles-js": "^3.3.0",
+    "react-parallax": "^3.5.1",
     "react-reveal": "^1.2.2",
     "react-scripts": "3.4.3",
     "react-tilt": "^0.1.4",
