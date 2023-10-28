@@ -52,15 +52,6 @@ const App = () => {
       </div>
       <div>
           <Container className="container-box rounded">
-            <Slide bottom duration={500}>
-            <hr />
-            <MyPhotos/>
-          </Slide>
-          </Container>
-       
-      </div>
-      <div>
-          <Container className="container-box rounded">
             <Fade duration={500}>
             <hr />
             <Contact/>
