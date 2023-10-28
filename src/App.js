@@ -26,36 +26,27 @@ const App = () => {
       <div>
         <Parallax blur={{ min: -1000, max: 1000 }} bgImage={require("./assets/img/parallex/background.webp")} bgImageAlt="" strength={-300}>
           <Container className="container-box rounded">
-            <Fade duration={500}>
+            
               <About />
-            </Fade>
+            
           </Container>
         </Parallax>
       </div>
       <div>
           <Container className="container-box rounded">
-            <Slide bottom duration={500}>
-            <hr />
-            <Skills />
-          </Slide>
-          </Container>
-       
-      </div>
-      <div>
-          <Container className="container-box rounded">
-            <Fade duration={500}>
+      
             <hr />
             <Experience />
-          </Fade>
+        
           </Container>
        
       </div>
       <div>
           <Container className="container-box rounded">
-            <Fade duration={500}>
+            
             <hr />
             <Contact/>
-          </Fade>
+          
           </Container>
        
       </div>
